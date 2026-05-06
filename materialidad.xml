@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="materialidad.css" type="text/css"?>
+
+
+<empresa_sostenible nombre="Consultora Web Sostenible">
+    
+    <stakeholders>
+        
+        <stakeholder nombre="Clientes empresariales" importancia="alta">
+            <descripcion>Empresas que contratan servicios de desarrollo web</descripcion>
+        </stakeholder>
+        
+        <stakeholder nombre="Usuarios finales" importancia="alta">
+            <descripcion>Interactúan con las aplicaciones desarrolladas; afectados por accesibilidad y privacidad.</descripcion>
+        </stakeholder>
+        
+        <stakeholder nombre="Equipo de desarrollo" importancia="media">
+            <descripcion>Responsables del desarrollo, mantenimiento y mejora de los productos digitales.</descripcion>
+        </stakeholder>
+        
+    </stakeholders>
+    
+
+    <temas_materiales>
+        
+        <tema_material nombre="Eficiencia energética del software" impacto="Ambiental">
+            <descripcion>Optimización del código y uso eficiente de recursos para reducir el consumo energético de servidores.</descripcion>
+        </tema_material>
+        
+        <tema_material nombre="Privacidad y protección de datos" impacto="Gobernanza">
+            <descripcion>Gestión segura de datos personales cumpliendo normativas como RGPD.</descripcion>
+        </tema_material>
+        
+        <tema_material nombre="Accesibilidad digital" impacto="Social">
+            <descripcion>Diseño de aplicaciones accesibles según estándares WCAG para garantizar inclusión.</descripcion>
+        </tema_material>
+        
+    </temas_materiales>
+    
+</empresa_sostenible>
