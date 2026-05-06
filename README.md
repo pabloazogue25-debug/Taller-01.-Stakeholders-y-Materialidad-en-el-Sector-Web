@@ -3,7 +3,7 @@
 ##  Objetivo
 Este proyecto analiza los **grupos de interés** y los **temas materiales ASG** en una consultora de desarrollo web, aplicando criterios de sostenibilidad.
 
-## 👥 Stakeholders Identificados
+##  Stakeholders Identificados
 - **Clientes empresariales**
 - **Usuarios finales**
 - **Equipo de desarrollo**
